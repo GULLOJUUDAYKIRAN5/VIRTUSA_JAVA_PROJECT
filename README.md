@@ -1,4 +1,4 @@
-🏦 Banking System Simulation (Java)
+#🏦 Banking System Simulation (Java)
 📌 Project Overview
 
 This project is a Java-based Banking System Simulation that demonstrates core banking operations such as account creation, deposit, withdrawal, money transfer, and transaction tracking.
